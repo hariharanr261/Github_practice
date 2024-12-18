@@ -13,7 +13,10 @@ public class Pattern_program
 			  System.out.print("*");
 		  
               System.out.println();
-	    }
+	    
+              
+              
+		}
 	}
 
 }
